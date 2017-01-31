@@ -5,3 +5,4 @@
 #The main database storage is done in MongoDB and is connected to Python via PyMongo.
 
 #samacharfeeds.py is a feedparser made in python which crawles the data of samachar-jagat website
+#tfidf.py is a small program written in python for finding term frequency (machine learning).
