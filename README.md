@@ -6,3 +6,5 @@
 
 #samacharfeeds.py is a feedparser made in python which crawles the data of samachar-jagat website
 #tfidf.py is a small program written in python for finding term frequency (machine learning).
+#q.py is a small program for finding the summarized text of the corpus.It uses sumPY.
+
